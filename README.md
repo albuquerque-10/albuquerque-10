@@ -84,7 +84,7 @@
 
   <br />
 
-  <a href="linkedin.com/in/luiz-gustavo-silva-de-albuquerque337">
+  <a href="https://www.linkedin.com/in/luiz-gustavo-silva-de-albuquerque337/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width=5% alt="Logo do Linkedin" />
   </a>
     
