@@ -3,7 +3,7 @@
 <body>
 
   <!-- Imagem do Perfil -->
-  <img src="https://github.com/user-attachments/assets/cefd40d9-100a-4a54-8a95-8a265a3d01e7" alt="Imagem do Perfil" />
+  <img src="https://github.com/user-attachments/assets/7c9611ce-fb8d-4a2c-a959-68d0146497ce" alt="Imagem do Perfil" />
   <br />
   <br />
 
