@@ -18,9 +18,6 @@
   <!-- Citação inspiradora -->
   <div class="section">
     <h2 style="color: #333; text-align: center;">"A mente que se expande jamais voltará ao normal"</h2>
-    <blockquote style="font-size: 1.2rem; text-align: center; color: #444;">
-      <i>A ideia de que a mente, uma vez expandida, não pode voltar ao seu estado anterior foi o que me fez despertar para os estudos.</i>
-    </blockquote>
   </div>
 
   <br />
@@ -47,7 +44,7 @@
     <ul style="list-style-type: none; padding: 0; color: #333; font-size: 1rem;">
       <li>📖 <strong>Ensino Normal Médio, Ensino Médio Completo</strong> - Escola Estadual Jocimara Vieira da Silva</li>
       <li>📖 <strong>Graduação em Gestão da Tecnologia da Informação</strong> - Centro Universitário Estácio de Santa Catarina</li>
-      <li>📖 <strong>Pós-Graduação <i>latu-sensu</i> em Engenharia de Inteligência Artificial</strong> - Data Science Academy <i>(A iniciar)</i></li>
+      <li>📖 <strong>Pós-Graduação <i>latu-sensu</i> em Engenharia de Inteligência Artificial</strong> - Data Science Academy</li>
     </ul>
   </div>
 
