@@ -7,14 +7,6 @@
   <br />
   <br />
 
-  <!-- Texto animado -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=30&duration=5000&pause=1000&color=39b3fe&center=true&vCenter=true&random=false&width=1000&lines=Olá!+Meu+nome+é+Luiz+Gustavo.;Seja+muito+bem-vindo+ao+meu+perfil!" alt="Texto animado" style="width: 100%; display: block; margin: 0 auto;" />
-  </a>
-
-  <br />
-  <br />
-
   <!-- Citação inspiradora -->
   <div class="section">
     <h2 style="color: #333; text-align: center;">"A mente que se expande jamais voltará ao normal"</h2>
@@ -63,15 +55,14 @@
 
   <!-- Seção de Ferramentas -->
   <div class="section" style="text-align: center;">
-    <h3 style="color: #333;">🪴 Ferramentas que busco especialização</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="Anaconda" style="width: 5%; margin-right: 10px; display: inline-block;" alt="Anaconda" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" style="width: 5%; margin-right: 10px; display: inline-block;" alt="Jupyter Notebook" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" style="width: 5%; margin-right: 10px; display: inline-block;" alt="Biblioteca NumPy" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" style="width: 5%; margin-right: 10px; display: inline-block;" alt="Biblioteca Pandas" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" style="width: 5%; margin-right: 10px; display: inline-block;" alt="Biblioteca Matplotlib" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width: 5%; margin-right: 10px; display: inline-block;" alt="PostgreSQL" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" style="width: 5%; margin-right: 10px; display: inline-block;" alt="Linguagem R" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="Julia" style="width: 5%; margin-right: 10px; display: inline-block;" alt="Linguagem Julia" />
+    <h3 style="color: #333;">⚙️ Ferramentas que busco especialização</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" alt="Google Colab" style="width: 5%; margin-right: 10px; display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" style="width: 5%; margin-right: 10px; display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" style="width: 5%; margin-right: 10px; display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" alt="ZSH" style="width: 5%; margin-right: 10px; display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width: 5%; margin-right: 10px; display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width: 5%; margin-right: 10px; display: inline-block;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" style="width: 5%; margin-right: 10px; display: inline-block;" />
   </div>
 
   <br />
