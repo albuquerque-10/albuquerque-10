@@ -59,7 +59,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" alt="Google Colab" style="width: 5%; margin-right: 10px; display: inline-block;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="Jupyter" style="width: 5%; margin-right: 10px; display: inline-block;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" style="width: 5%; margin-right: 10px; display: inline-block;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" alt="ZSH" style="width: 5%; margin-right: 10px; display: inline-block;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" style="width: 5%; margin-right: 10px; display: inline-block;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width: 5%; margin-right: 10px; display: inline-block;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" style="width: 5%; margin-right: 10px; display: inline-block;" />
