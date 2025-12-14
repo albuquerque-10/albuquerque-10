@@ -21,9 +21,6 @@
     <p style="font-size: 1rem; line-height: 1.5; color: #333;">
       Este perfil serve como <strong>portfolio</strong> para projetos, pesquisas e colaboração com outros usuários da plataforma.
     </p>
-    <p style="font-size: 1rem; line-height: 1.5; color: #333;">
-      Sou formado em <strong>Gestão de Tecnologia da Informação</strong> e, atualmente, busco especialização nas áreas de <strong>Análise de Dados</strong> e <strong>Data Science</strong>. Assim como milhões de pessoas ao redor do mundo, estou iniciando meus primeiros contatos com linguagens de programação e ferramentas essenciais para realizar as tarefas envolvidas na análise de dados. Com muito esforço, pretendo me profissionalizar para o mercado de trabalho e colaborar futuramente com pesquisas de campo.
-    </p>
   </div>
 
   <br />
